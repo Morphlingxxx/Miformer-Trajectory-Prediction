@@ -1,2 +1,2 @@
 # Miformer-Trajectory-Prediction
-This is a implement of Miformer algorithm
+Our code will be made public after the paper is published.
