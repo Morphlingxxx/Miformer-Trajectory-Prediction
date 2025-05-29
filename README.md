@@ -22,7 +22,10 @@ conda install pytorch-lightning
 pip install itransformer
 ```
 *Note:* For compatibility, you may experiment with different versions, e.g., PyTorch 2.3.1 has been confirmed to work.
+
+*Importatnt*
 Replace itransformer.py in the conda environment with iTransformerMinus.py
+
 ## Datasets
 
 <details>
