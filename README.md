@@ -19,9 +19,10 @@ conda activate Miformer
 conda install pytorch==2.3.1 torchvision==0.18.1 torchaudio==2.3.1 pytorch-cuda=12.1 -c pytorch -c nvidia
 pip install pyg_lib torch_scatter torch_sparse torch_cluster torch_spline_conv -f https://data.pyg.org/whl/torch-2.3.0+cu121.html
 conda install pytorch-lightning
+pip install itransformer
 ```
 *Note:* For compatibility, you may experiment with different versions, e.g., PyTorch 2.3.1 has been confirmed to work.
-
+Replace itransformer.py in the conda environment with iTransformerMinus.py
 ## Datasets
 
 <details>
