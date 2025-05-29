@@ -111,4 +111,4 @@ python INTERACTION/test.py --root /path/to/INTERACTION_root/ --test_batch_size 2
 ```
 
 ## Acknowledgements
-We sincerely appreciate [Argoverse](https://github.com/argoverse/argoverse-api), [INTERACTION](https://github.com/interaction-dataset/interaction-dataset),[QCNet](https://github.com/ZikangZhou/QCNet) and [HPNet](git@github.com:XiaolongTang23/HPNet.git)  for their awesome codebases.
+We sincerely appreciate [Argoverse](https://github.com/argoverse/argoverse-api), [INTERACTION](https://github.com/interaction-dataset/interaction-dataset),[QCNet](https://github.com/ZikangZhou/QCNet) and [HPNet]([git@github.com:XiaolongTang23/HPNet](https://github.com/XiaolongTang23/HPNet?tab=readme-ov-file))  for their awesome codebases.
