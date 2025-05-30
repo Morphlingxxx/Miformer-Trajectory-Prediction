@@ -1,5 +1,6 @@
 # Miformer: A Minus Inverted Transformer Fed by Historical-Future Interactions for Trajectory Prediction
 This repository is the official implementation of Miformer: A Minus Inverted Transformer Fed by Historical-Future Interactions for Trajectory Prediction.
+![image](https://github.com/user-attachments/assets/76df29f7-db83-494c-a094-e5205c46ffe2)
 
 ## Table of Contents
 + [Setup](#setup)
